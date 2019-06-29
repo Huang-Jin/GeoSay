@@ -18,6 +18,6 @@ So you'd better compile the ASJ yourself.
 
 We compared several methods with our GBI. The quantative results in three datasets are shown here.
 
-!(https://github.com/Huang-Jin/GeoSay/blob/master/images/results.png)
+![](https://raw.githubusercontent.com/Huang-Jin/GeoSay/master/images/results.png)
 
 Further results could be found in http://captain.whu.edu.cn/project/geosay.html.
